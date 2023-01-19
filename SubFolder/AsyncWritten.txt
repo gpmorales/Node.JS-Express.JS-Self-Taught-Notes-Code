@@ -1,0 +1,2 @@
+Here is the merged result Hello World
+This is another text file

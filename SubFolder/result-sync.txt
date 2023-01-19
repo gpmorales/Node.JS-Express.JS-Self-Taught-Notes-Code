@@ -1,0 +1,6 @@
+This was created inside a Node script! 
+ Hello World
+This is another text file
+This was created inside a Node script! 
+ Hello World
+This is another text file
