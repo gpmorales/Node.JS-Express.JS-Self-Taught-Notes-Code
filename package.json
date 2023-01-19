@@ -1,0 +1,19 @@
+{
+  "name": "Tutorial",
+  "version": "1.0.0",
+  "description": "Node reposit",
+  "main": "ExpressBasics1.js",
+  "scripts": {
+    "start": "nodemon ExpressBasics1.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "express": "^4.18.2",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
